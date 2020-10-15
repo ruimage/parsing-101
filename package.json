@@ -1,0 +1,25 @@
+{
+  "name": "parsing-101",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "## Введение В этом задании вам предстоит познакомиться с такой концепцией как \"парсинг\" сайтов, или по-умному \"web scraping\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/parsing-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/parsing-101/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/parsing-101#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
